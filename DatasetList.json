@@ -1,5 +1,4 @@
-{
-  "files": [
+[
     {
       "SourceFileName": "olist_customers_dataset.csv",
       "DestinationFileName": "olist_customers_dataset.csv"
@@ -28,5 +27,5 @@
       "SourceFileName": "product_category_name_translation.csv",
       "DestinationFileName": "product_category_name_translation.csv"
     }
-  ]
-}
+]
+
