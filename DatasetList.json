@@ -1,30 +1,32 @@
-[
-  {
-    "SourceFileName": "olist_customers_dataset.csv",
-    "DestinationFileName": "olist_customers_dataset.csv"
-  },
-  {
-    "SourceFileName": "olist_order_items_dataset.csv",
-    "DestinationFileName": "olist_order_items_dataset.csv"
-  },
-  {
-    "SourceFileName": "olist_order_reviews_dataset.csv",
-    "DestinationFileName": "olist_order_reviews_dataset.csv"
-  },
-  {
-    "SourceFileName": "olist_orders_dataset.csv",
-    "DestinationFileName": "olist_orders_dataset.csv"
-  },
-  {
-    "SourceFileName": "olist_products_dataset.csv",
-    "DestinationFileName": "olist_products_dataset.csv"
-  },
-  {
-    "SourceFileName": "olist_sellers_dataset.csv",
-    "DestinationFileName": "olist_sellers_dataset.csv"
-  },
-  {
-    "SourceFileName": "product_category_name_translation.csv",
-    "DestinationFileName": "product_category_name_translation.csv"
-  }
-]
+{
+  "files": [
+    {
+      "SourceFileName": "olist_customers_dataset.csv",
+      "DestinationFileName": "olist_customers_dataset.csv"
+    },
+    {
+      "SourceFileName": "olist_order_items_dataset.csv",
+      "DestinationFileName": "olist_order_items_dataset.csv"
+    },
+    {
+      "SourceFileName": "olist_order_reviews_dataset.csv",
+      "DestinationFileName": "olist_order_reviews_dataset.csv"
+    },
+    {
+      "SourceFileName": "olist_orders_dataset.csv",
+      "DestinationFileName": "olist_orders_dataset.csv"
+    },
+    {
+      "SourceFileName": "olist_products_dataset.csv",
+      "DestinationFileName": "olist_products_dataset.csv"
+    },
+    {
+      "SourceFileName": "olist_sellers_dataset.csv",
+      "DestinationFileName": "olist_sellers_dataset.csv"
+    },
+    {
+      "SourceFileName": "product_category_name_translation.csv",
+      "DestinationFileName": "product_category_name_translation.csv"
+    }
+  ]
+}
